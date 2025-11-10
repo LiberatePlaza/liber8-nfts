@@ -1,0 +1,24 @@
+{
+  "name": "Liber8 #116",
+  "description": "Liber8 — a 250-piece phygital collection. Pull a rarity, own the art, and redeem the physical (sweater/t-shirt).",
+  "image": "https://i.postimg.cc/d3FfNykb/Titanium-Black.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Titanium"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "Unbreakable minds build unbreakable empires."
+    },
+    {
+      "trait_type": "Essence",
+      "value": "True independence is mental armor — forged through pain, cooled by peace."
+    },
+    {
+      "trait_type": "Box ID",
+      "value": 116
+    }
+  ],
+  "external_url": "https://t.me/your_bot_username"
+}
