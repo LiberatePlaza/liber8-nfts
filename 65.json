@@ -1,0 +1,24 @@
+{
+  "name": "Liber8 #65",
+  "description": "Liber8 — a 250-piece phygital collection. Pull a rarity, own the art, and redeem the physical (sweater/t-shirt).",
+  "image": "https://i.postimg.cc/qqcPpLHs/Sapphire-Black.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "Knowledge cuts deeper than power."
+    },
+    {
+      "trait_type": "Essence",
+      "value": "The 1% hide truth in plain sight. Those who learn it, own their future."
+    },
+    {
+      "trait_type": "Box ID",
+      "value": 65
+    }
+  ],
+  "external_url": "https://t.me/your_bot_username"
+}

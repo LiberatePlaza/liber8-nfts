@@ -1,0 +1,24 @@
+{
+  "name": "Liber8 #40",
+  "description": "Liber8 — a 250-piece phygital collection. Pull a rarity, own the art, and redeem the physical (sweater/t-shirt).",
+  "image": "https://i.postimg.cc/RZvMJWPZ/Diamond-Black.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "Pressure creates clarity."
+    },
+    {
+      "trait_type": "Essence",
+      "value": "Every struggle polishes the mind. The elite bend the weak; the strong bend reality."
+    },
+    {
+      "trait_type": "Box ID",
+      "value": 40
+    }
+  ],
+  "external_url": "https://t.me/your_bot_username"
+}
