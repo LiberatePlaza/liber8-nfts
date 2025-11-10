@@ -1,0 +1,24 @@
+{
+  "name": "Liber8 #206",
+  "description": "Liber8 — a 250-piece phygital collection. Pull a rarity, own the art, and redeem the physical (sweater/t-shirt).",
+  "image": "https://i.postimg.cc/6qsKWq7g/Emerald-Black.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "Growth is rebellion in motion."
+    },
+    {
+      "trait_type": "Essence",
+      "value": "When you build, you resist. Every skill, every investment, every act of creation breaks a chain."
+    },
+    {
+      "trait_type": "Box ID",
+      "value": 206
+    }
+  ],
+  "external_url": "https://t.me/your_bot_username"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Liber8 #177",
+  "description": "Liber8 — a 250-piece phygital collection. Pull a rarity, own the art, and redeem the physical (sweater/t-shirt).",
+  "image": "https://i.postimg.cc/tRVRKQZJ/Platinum-Black.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "Discipline is the rarest currency."
+    },
+    {
+      "trait_type": "Essence",
+      "value": "Every rich man learned this: the price of freedom is control over yourself."
+    },
+    {
+      "trait_type": "Box ID",
+      "value": 177
+    }
+  ],
+  "external_url": "https://t.me/your_bot_username"
+}

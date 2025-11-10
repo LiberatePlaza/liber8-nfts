@@ -1,0 +1,24 @@
+{
+  "name": "Liber8 #225",
+  "description": "Liber8 — a 250-piece phygital collection. Pull a rarity, own the art, and redeem the physical (sweater/t-shirt).",
+  "image": "https://i.postimg.cc/bvCNhq9j/Gold-Black.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "True wealth is invisible."
+    },
+    {
+      "trait_type": "Essence",
+      "value": "The Matrix teaches us money is value — the truth is, control over time and energy is the real gold."
+    },
+    {
+      "trait_type": "Box ID",
+      "value": 225
+    }
+  ],
+  "external_url": "https://t.me/your_bot_username"
+}

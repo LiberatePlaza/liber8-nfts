@@ -1,0 +1,24 @@
+{
+  "name": "Liber8 #230",
+  "description": "Liber8 — a 250-piece phygital collection. Pull a rarity, own the art, and redeem the physical (sweater/t-shirt).",
+  "image": "https://i.postimg.cc/XvV0qtYX/Copper-Black.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "Awakening begins in discomfort."
+    },
+    {
+      "trait_type": "Essence",
+      "value": "The first step of freedom is realizing you’ve been chained. Most never wake up — the brave few do."
+    },
+    {
+      "trait_type": "Box ID",
+      "value": 230
+    }
+  ],
+  "external_url": "https://t.me/your_bot_username"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Liber8 #226",
+  "description": "Liber8 — a 250-piece phygital collection. Pull a rarity, own the art, and redeem the physical (sweater/t-shirt).",
+  "image": "https://i.postimg.cc/xCvxm1pd/Obsidian-Black.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "Freedom is the final luxury."
+    },
+    {
+      "trait_type": "Essence",
+      "value": "At the end of the path, silence and sovereignty remain. The awakened are unstoppable."
+    },
+    {
+      "trait_type": "Box ID",
+      "value": 226
+    }
+  ],
+  "external_url": "https://t.me/your_bot_username"
+}
